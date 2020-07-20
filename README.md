@@ -11,8 +11,8 @@ It was originally developed for automated testing. After the crawler became popu
 Below are the versions installed on my Mac.
 suit           |version              |location       
 ---------------|:-------------------:|:-------------:
-Google Chrome  |84.0.4147.89(mac64)  |Default path   
-chromedriver   |84.0.4147.30(mac64)  |/usr/local/bin 
+[Google Chrome](https://www.google.com/intl/zh-CN/chrome/)  |84.0.4147.89(mac64)  |Default path   
+[chromedriver](http://chromedriver.chromium.org/downloads)|84.0.4147.30(mac64)  |/usr/local/bin 
 
 # 3.Usage
 * Install selenium   
