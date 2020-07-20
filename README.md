@@ -7,7 +7,7 @@
 It was originally developed for automated testing. After the crawler became popular, it also became a crawler tool. Its function is simply to control the browser, use code to simulate the operation of the browser, and realize automation.
 
 # 2.Install
-Google Chrome and chromedriver need to be installed for this project.  
+***Google Chrome*** and ***chromedriver*** need to be installed for this project.  
 Below are the versions installed on my Mac.
 suit           |version              |location       
 ---------------|:-------------------:|:-------------:
