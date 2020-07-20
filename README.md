@@ -18,9 +18,10 @@ chromedriver   |84.0.4147.30(mac64)  |/usr/local/bin
 * Install selenium   
   ```pip install selenium```   
   or install selenium manually in Pycharm.
-* Place chromedriver.exe to ***/usr/local/bin(on Mac)***
-* Change the 'user' and 'password' field in the python file
-* Run the python file.
+* Place chromedriver.exe to `/usr/local/bin(on Mac)`
+* Change the `'user'` and `'password'` field in the python file
+* Run the python file.  
+*(If the login is successful, it will automatically log out within a few seconds after the success. If it fails, the login failure page will be displayed.)*
 
 # 4.Development Environment
 *Python 3.7 + PyCharm 2019.2.1*
